@@ -13,11 +13,11 @@ public class Test3 {
 			e.printStackTrace();
 			System.out.println(e);
 			System.out.println(e.getMessage());
-			System.out.println(e.getLocalizedMessage());
-			System.out.println(e.getCause());
-			System.out.println(e.getClass());
-			System.out.println(e.getStackTrace());
-			System.out.println(e.getSuppressed());
+//			System.out.println(e.getLocalizedMessage());
+//			System.out.println(e.getCause());
+//			System.out.println(e.getClass());
+//			System.out.println(e.getStackTrace());
+//			System.out.println(e.getSuppressed());
 			
 		}
 
